@@ -64,6 +64,13 @@ text-decoration: underline;
     text-decoration: none;
     margin-right: 10px;
 }
+
+.project-links>a:hover{
+    background-color: blanchedalmond;
+    border: 3px solid blanchedalmond;
+    border-radius: 25px;
+    padding: 16px;
+}
 .contact {
     text-align: center;
     margin-top: 20px;
